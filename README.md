@@ -1,8 +1,9 @@
+<h1 align="center">Pattaraporn Potjanapimol</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Computer+Engineering+Student;KhonKaen+University&font=Fira+Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
-<!-- Social icons -->
 <p align="center">
   <a href="https://www.youtube.com/@pattara_rnx">
     <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
@@ -13,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Pattaraporn Potjanapimol (Pattararn)** 👋
+Hi, I'm **Pattaraporn Potjanapimol (Pattaraporn)** 👋
 
 - 🎓 Computer Engineering student at **Khon Kaen University**
 - 🌐 Passionate about **Full-stack Web Development**
@@ -57,28 +58,58 @@ Hi, I'm **Pattaraporn Potjanapimol (Pattararn)** 👋
 
 ## 📘 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/Pattararnxx/KTTC_frontend">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Pattararnxx&repo=KTTC_frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="KTTC Frontend">
-  </a>
-  <a href="https://github.com/Pattararnxx/KTTC_backend">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Pattararnxx&repo=KTTC_backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="KTTC Backend">
-  </a>
-  <a href="https://github.com/Pattararnxx/backendFormix">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Pattararnxx&repo=backendFormix&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Formix Backend">
-  </a>
-</p>
+### 🎫 Event Ticket Booking Platform
+> Built in 2 days at **MSU × Hackathon**
 
-### 🤝 Organization Projects
+Modern event ticket booking platform with responsive UI and event management system. Full-stack application developed under time pressure in a competitive hackathon environment.
 
-<p align="left">
-  <a href="https://github.com/ROP-TEAM/rop-backend">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ROP-TEAM&repo=rop-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ROP Backend">
-  </a>
-  <a href="https://github.com/Libreserve/admin">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Libreserve&repo=admin&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Libreserve Admin">
-  </a>
-</p>
+🔗 [Frontend](https://github.com/Pattararnxx/KTTC_frontend) · [Backend](https://github.com/Pattararnxx/KTTC_backend)
+
+---
+
+### 📝 Formix — Form Builder
+> Personal Project
+
+Web-based form builder inspired by Google Forms but with a more thoughtfully designed UI. Users can create, customize, and share forms with ease.
+
+🔗 [Backend](https://github.com/Pattararnxx/backendFormix)
+
+---
+
+### 🌐 KKU Chemistry 360°
+> University Project
+
+Interactive 360-degree virtual tour web application for the KKU Chemistry faculty, built with CesiumJS for immersive spatial navigation.
+
+🔗 [cesium.kku.ac.th](https://cesium.kku.ac.th/web/chem/)
+
+---
+
+### 🏥 CTAR Medical IoT System
+> Research Project
+
+Web platform and IoT system for a medical CTAR (Continuous Throat Aspiration Relief) device, designed to assist patients with swallowing disorders in clinical research settings.
+
+---
+
+## 🤝 Organization Projects
+
+### 🚚 Route Optimization System · [ROP-TEAM](https://github.com/ROP-TEAM)
+Supply Chain & Logistics route planning and scheduling platform. Collaborative project focused on optimizing delivery routes and resource management.
+
+🔗 [rop-backend](https://github.com/ROP-TEAM/rop-backend)
+
+---
+
+### 🏆 Tournament Management System · [Libreserve](https://github.com/Libreserve)
+Angular application with dynamic bracket generation and result management for tournament organizers.
+
+🔗 [admin](https://github.com/Libreserve/admin)
+
+---
+
+### 🛠️ ENWorkshop — Workshop Booking Platform · [Libreserve](https://github.com/Libreserve)
+Web platform for booking and managing engineering workshop equipment and sessions, built collaboratively with a team.
 
 ---
 
