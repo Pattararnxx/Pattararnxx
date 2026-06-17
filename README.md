@@ -14,8 +14,8 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Pattaraporn Potjanapimol** 👋
-🎓 Computer Engineering @ **Khon Kaen University** · 🌐 Full-stack Web Dev · 🚀 Always building new things
+Hi, I'm **Pattaraporn Potjanapimol** 
+ Computer Engineering @ **Khon Kaen University** ·  Full-stack Web Dev ·  Always building new things
 
 ---
 
