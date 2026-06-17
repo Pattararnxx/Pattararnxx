@@ -40,11 +40,11 @@ Hi, I'm **Pattaraporn Potjanapimol**
 | | Project | Description |
 |---|---|---|
 | 🏆 | **Tournament Management** | Angular app with dynamic bracket generation and result management |
-| 🎫 | **[KTTC — Event Ticket Booking](https://github.com/Pattararnxx/KTTC_frontend)** · [Backend](https://github.com/Pattararnxx/KTTC_backend) | Full-stack ticket booking platform · Built in 2 days at MSU × Hackathon |
-| 📝 | **[Formix — Form Builder](https://github.com/Pattararnxx/backendFormix)** | Google Forms-inspired web app with better-designed UI |
+| 🎫 | **[Event Ticket Booking]** | Full-stack ticket booking platform · Built in 2 days at MSU × Hackathon |
+| 📝 | **[Formix — Form Builder]** | Google Forms-inspired web app with better-designed UI |
 | 🌐 | **[KKU Chemistry 360°](https://cesium.kku.ac.th/web/chem/)** | Interactive 360° virtual tour using CesiumJS |
 | 🏥 | **CTAR Medical IoT System** | Web + IoT platform for swallowing disorder research device |
-| 🚚 | **[ROP — Route Optimization](https://github.com/ROP-TEAM/rop-backend)** · [ROP-TEAM](https://github.com/ROP-TEAM) | Supply Chain & Logistics route planning platform |
+| 🚚 | **[ROP — Route Optimization]** · [ROP-TEAM](https://github.com/ROP-TEAM) | Supply Chain & Logistics route planning platform |
 | 🛠️ | **ENWorkshop — Workshop Booking** · [Libreserve](https://github.com/Libreserve) | Engineering workshop booking and management platform |
 
 ---
