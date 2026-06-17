@@ -1,4 +1,4 @@
-<h1 align="center">Pattaraporn Potjanapimol</h1>
+<h1 align="center" color=f75c7e font=Fira+Code>Pattaraporn Potjanapimol</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Computer+Engineering+Student;KhonKaen+University&font=Fira+Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -58,21 +58,21 @@ Hi, I'm **Pattaraporn Potjanapimol (Pattaraporn)** 👋
 
 ## 📘 Featured Projects
 
+### 🏆 Tournament Management System
+> Personal Project
+Angular application with dynamic bracket generation and result management for tournament organizers.
+
 ### 🎫 Event Ticket Booking Platform
 > Built in 2 days at **MSU × Hackathon**
 
 Modern event ticket booking platform with responsive UI and event management system. Full-stack application developed under time pressure in a competitive hackathon environment.
 
-🔗 [Frontend](https://github.com/Pattararnxx/KTTC_frontend) · [Backend](https://github.com/Pattararnxx/KTTC_backend)
-
 ---
 
 ### 📝 Formix — Form Builder
-> Personal Project
+> Group Project
 
 Web-based form builder inspired by Google Forms but with a more thoughtfully designed UI. Users can create, customize, and share forms with ease.
-
-🔗 [Backend](https://github.com/Pattararnxx/backendFormix)
 
 ---
 
@@ -96,15 +96,6 @@ Web platform and IoT system for a medical CTAR (Continuous Throat Aspiration Rel
 
 ### 🚚 Route Optimization System · [ROP-TEAM](https://github.com/ROP-TEAM)
 Supply Chain & Logistics route planning and scheduling platform. Collaborative project focused on optimizing delivery routes and resource management.
-
-🔗 [rop-backend](https://github.com/ROP-TEAM/rop-backend)
-
----
-
-### 🏆 Tournament Management System · [Libreserve](https://github.com/Libreserve)
-Angular application with dynamic bracket generation and result management for tournament organizers.
-
-🔗 [admin](https://github.com/Libreserve/admin)
 
 ---
 
